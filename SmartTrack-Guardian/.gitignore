@@ -1,0 +1,16 @@
+# Android / Gradle
+.gradle/
+build/
+*/build/
+local.properties
+.idea/
+*.iml
+
+# Arduino build outputs
+*.elf
+*.bin
+*.hex
+
+# OS files
+.DS_Store
+Thumbs.db
